@@ -1,0 +1,37 @@
+@charset "UFT-8";
+
+body{
+    background-color: turquoise;
+    margin: 0%;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+#quadrado{
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+input{
+    margin-bottom: 15px;
+}
+
+#img{
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+
+#ident{
+    font-family: Arial, Helvetica, sans-serif;
+}
